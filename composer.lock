@@ -585,7 +585,7 @@
             },
             "require": {
                 "phpixie/core": "2.*@dev",
-                "swiftmailer/swiftmailer": "4.3.*@dev"
+                "swiftmailer/swiftmailer": "5.4.5"
             },
             "type": "library",
             "extra": {
@@ -2300,7 +2300,7 @@
         },
         {
             "name": "symfony/security-core",
-            "version": "v2.6.1",
+            "version": "v2.8.37",
             "target-dir": "Symfony/Component/Security/Core",
             "source": {
                 "type": "git",
